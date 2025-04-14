@@ -39,4 +39,6 @@ class Novajanela(QMainWindow):
         self.background.setPixmap(QPixmap("imagens/principal.png"))
         self.background.setGeometry(0, 0, 600, 900)
         self.background.setScaledContents(True)
+
+
         
