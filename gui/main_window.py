@@ -41,4 +41,6 @@ class Novajanela(QMainWindow):
         self.background.setScaledContents(True)
 
 
+
+
         
